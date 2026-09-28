@@ -17,7 +17,7 @@ The TopOn Fyber (DT Exchange) mediation adapter for iOS, distributed via Swift P
    ```
    https://github.com/toponteam-packages/TPNMediationFyberAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `8.4.7-2.1`).
+3. Select **Exact Version** and enter the target version (e.g. `80407.2.1`).
 4. Add the `TPNMediationFyberAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The TopOn Fyber (DT Exchange) mediation adapter for iOS, distributed via Swift P
 dependencies: [
     .package(
         url: "https://github.com/toponteam-packages/TPNMediationFyberAdapter_SPM.git",
-        exact: "8.4.7-2.1"
+        exact: "80407.2.1"
     )
 ]
 ```
