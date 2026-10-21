@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "AnyThinkFyberAdapter",
             url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkFyberAdapter/8.4.7.2.9/AnyThinkFyberAdapter-8.4.7.2.9.zip",
-            checksum: "3bc6da1bd7fab9a85f3d48ba375913a3311de3906612cb423183c683e279bffc"
+            checksum: "314e3f4976f91e0ab1e5b4dbed6d0d6e0760656d514d5f54d4ead4a2acf36d8e"
         ),
         .target(
             name: "TPNMediationFyberAdapterTarget",
